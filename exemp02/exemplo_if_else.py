@@ -32,5 +32,5 @@ def executar():
 # A boa prática de verificar se o script é o principal não está aqui,
 # mas se estivesse, chamaria a função executar().
 # Exemplo:
-# if __name__ == "__main__":
-#     executar()
+if __name__ == "__main__":
+    executar()
